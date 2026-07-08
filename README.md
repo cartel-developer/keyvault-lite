@@ -2,6 +2,7 @@
 
 ## Screenshot
 
+![KeyVaultLite banner](assets/banner.webp)
 ![KeyVaultLite Screenshot 1](assets/screenshot_1.png)
 ![KeyVaultLite Screenshot 2](assets/screenshot_2.png)
 
